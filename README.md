@@ -1,1 +1,1 @@
-# Algorithms
+# Competitive programming
